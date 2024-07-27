@@ -18463,6 +18463,12 @@
     },
     "suimi-js-css": {
       "version": "*"
+    },
+    "mars3d": {
+      "version": "*"
+    },
+    "mars3d-cesium": {
+      "version": "*"
     }
   }
 }
